@@ -1,8 +1,10 @@
 ---
 layout: page
 permalink: /
-title: About Drafts DC
+title: Welcome
 ---
+
+This site is a guide for DC Government teams who plan to use [Drafts DC](https://drafts.dc.gov/) to engage the public on draft documents such a policy and legislation.  Members of the public who want to learn more about the site and how to get involved can visit the [Drafts DC FAQ](https://drafts.dc.gov/faq)
 
 [Drafts DC](https://drafts.dc.gov/) is a website that enables government and residents to collaborate on text documents. Residents can express support or opposition to a document and leave comments about it. These comments are publicly visible, which enables a real-time conversation between residents and government, and can be attached to individual paragraphs of the document, which enables the conversation to focus on specific details.
 
